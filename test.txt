@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 I love Apples.
+=======
+i love oranges
+>>>>>>> conflict-test
 "final test" 
 " this is a wild ai idea that might break everything" 
